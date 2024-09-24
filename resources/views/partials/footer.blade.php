@@ -1,8 +1,8 @@
 <footer>
-    <div class="foot-up bg-dark-marvel">
+    <div class="foot-up bg-dark-marvel py-5">
         <div class="container">
             <div class="row">
-                <div class="d-flex gap-3 mt-5">
+                <div class="d-flex gap-3 mb-2">
                     <div>
                         <h4 class="text-white">DC COMICS</h4>
                         <ul class="text-secondary list-unstyled">

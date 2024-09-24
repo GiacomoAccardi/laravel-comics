@@ -3,3 +3,19 @@
 .bg-dark-marvel {
     background-image: url(../img/footer-bg.jpg);
 }
+
+.bg-jumbo {
+    background-image: url(../img/jumbotron.jpg);
+    background-size: cover;
+    height: 400px;
+}
+
+.comic-thumb {
+    width: 200px;
+    height: 200px;
+
+    img {
+        height: 180px;
+        width: 90%;
+    }
+}
