@@ -16,7 +16,7 @@
             <img src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="DC LOGO">
 
             <ul class="list-unstyled d-flex gap-3">
-                <li><a href="">CHARACTERS</a></a></li>
+                <li><a href="">CHARACTERS</a></li>
                 <li><a href="">COMICS</a></li>
                 <li><a href="">MOVIES</a></li>
                 <li><a href="">TV</a></li>
